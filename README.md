@@ -21,7 +21,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:MahimaSingh/AmazoneClone.git
+$ git clone git@github.com:pallavi-agrahari/AmazoneClone.git
 $ cd mern-AmazoneClone
 ```
 
